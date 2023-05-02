@@ -1,7 +1,6 @@
 {
   "name": "assignment1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,14 @@
     "express-session": "^1.17.3",
     "joi": "^17.9.2",
     "mongodb": "^5.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeungyeopHyun/2537_Assignment01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SeungyeopHyun/2537_Assignment01/issues"
+  },
+  "homepage": "https://github.com/SeungyeopHyun/2537_Assignment01#readme",
+  "description": ""
 }
